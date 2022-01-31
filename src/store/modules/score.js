@@ -32,6 +32,7 @@ const initialState = {
   quizs: [
     {
       q: "대한민국의 수도는?",
+      img: "/city/korea.jpg",
       a: [
         {
           text: "서울",
@@ -49,6 +50,7 @@ const initialState = {
     },
     {
       q: "미국의 수도는?",
+      img: "/city/usa.jpg",
       a: [
         {
           text: "뉴욕",
